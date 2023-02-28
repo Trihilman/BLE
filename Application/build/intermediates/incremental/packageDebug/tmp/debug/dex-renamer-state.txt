@@ -1,0 +1,4 @@
+#Tue Feb 28 10:12:49 ICT 2023
+base.0=C\:\\GRANADA\\Repo Aplikasi\\BluetoothLeGatt\\Application\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
